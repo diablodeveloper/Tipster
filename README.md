@@ -2,8 +2,6 @@
 
 Tipster is a tip calculator app built for CodePath's pre-class assignment
 
-Time spent: 9 hours total
-
 Submitted by: Praful Gupta
 
 Time spent: 8 hours spent in total
@@ -22,7 +20,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](http://imgur.com/a/BpxJ6)
+![Video Walkthrough](http://i.imgur.com/zhNd0jQ.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
