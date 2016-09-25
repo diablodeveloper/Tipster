@@ -1,19 +1,10 @@
 # Tipster
 
-Tipster is a tip calculator app for CodePath's pre-class assignment
+Tipster is a tip calculator app built for CodePath's pre-class assignment
 
 Time spent: 9 hours total
 
-Completed user stories:
-
- Required: Basic tip calculator functionatliy
- Required: Settings page
- Optional: View animation
- Optional: Remember the bill amount across app restarts (within 60 seconds)
- Optional: Use locale specific currency and currency thousands separators
- Optional: Light/dark color theme in settings view
- 
- Submitted by: Praful Gupta
+Submitted by: Praful Gupta
 
 Time spent: 8 hours spent in total
 
